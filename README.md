@@ -1,4 +1,4 @@
 # odin-recipes
 
-HTML basics project
-the current project is creation of basic HTML file structure along with the workflow of GIT .
+HTML /CSS basics project
+the current project is creation of basic HTML file structure , adding items of CSS along with the workflow of git .
